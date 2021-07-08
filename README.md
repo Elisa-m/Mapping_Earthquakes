@@ -1,5 +1,5 @@
 # Mapping_Earthquakes
-Used JavaScript, HTML, CSS, Leaflet.js, and geoJSON to map earthquakes in relation to the tectonic plates’ location on the earth. Here's a screenshot of the result:  
+Used JavaScript, HTML, CSS, Leaflet.js, geoJSON and Mapbox API to map earthquakes in relation to the tectonic plates’ location on the earth. Here's a screenshot of the result:  
 ![](Earthquakes_Map.png)
 
 Follow these steps to view the result on your browser:
